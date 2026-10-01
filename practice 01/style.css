@@ -1,0 +1,38 @@
+
+#box {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+}
+
+
+.heading {
+    color: red;
+}
+button {
+    background-color: green;
+}
+
+button {
+    background-color: blue;
+}
+
+button {
+    background-color: pink;
+}
+
+
+
+.text {
+    color: blue;
+}
+
+#para {
+    color: red;
+}
+
+
+
+* {
+    color: blue;
+}

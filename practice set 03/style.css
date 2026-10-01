@@ -1,0 +1,44 @@
+
+.box {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+}
+
+
+
+nav {
+    height: 60px;
+    background-color: #0f1111;
+    display: flex;
+    align-items: center;
+    gap: 200px;
+    padding: 0 15px;
+}
+
+.logo {
+    color: #ff9900;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.search {
+    display: flex;
+}
+
+.search input {
+    height: 25px;
+}
+
+.search button {
+    height: 29px;
+    background-color: #ff9900;
+    border: none;
+}

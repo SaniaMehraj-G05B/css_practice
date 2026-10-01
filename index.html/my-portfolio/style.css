@@ -1,0 +1,43 @@
+header{
+    
+    height: 100px;
+    width:900px;
+    border:2px solid black;
+    font-size:70px;
+    
+}
+nav{
+    padding:20px;
+    
+}
+nav a{
+    margin-right:30px;
+    text-decoration:none;
+    color:black;
+    background-color:yellow;
+}
+.content{
+    height:600px;
+    width:1500px;
+}
+.div1{
+    background:pink;
+    height:200px;
+    width:200px;
+}
+.div2{
+    background:purple;
+    height:200px;
+    width:200px;
+}
+.div3{
+    background:blue;
+    height:200px;
+    width:200px;
+}
+footer{
+    height:100px;
+    width:1000px;
+    border:2px solid black;
+    text-align:center;
+}

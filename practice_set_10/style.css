@@ -1,0 +1,22 @@
+div{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    background-color: aqua;
+    
+    border: 20px solid orange;
+    border-top: 20px solid purple;
+    animation: spin 1s ease-in infinite;
+    position: relative;
+    top: 75%;
+    left: 40%;
+    
+}
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}

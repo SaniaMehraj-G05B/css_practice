@@ -1,0 +1,39 @@
+body{
+    text-align:center;
+}
+div{
+    height:100px;
+    width:100px;
+    display:inline-block;
+    border:2px solid black;
+    font-size:30px;
+
+}
+
+
+
+
+#conatainer{
+    width:800px;
+    height:200px;
+    display:flex;
+
+    flex-direction:column-reverse;
+    justify-content:center;
+}
+#box1{
+    background-color:purple;
+
+}
+#box2{
+    background-color:pink;
+}
+#box3{
+    background-color:plum;
+}
+#box4{
+    backgroung-color:blue;
+}
+#box5{
+    background-color:blanchedalmond;
+}
